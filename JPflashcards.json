@@ -1,0 +1,562 @@
+[
+  {
+    "front": "go",
+    "back": "iku",
+    "createdAt": 1740158583822
+  },
+  {
+    "front": "to see",
+    "back": "miru",
+    "createdAt": 1740158594362
+  },
+  {
+    "front": "a lot of",
+    "back": "ooi",
+    "createdAt": 1740158604299
+  },
+  {
+    "front": "home",
+    "back": "ie",
+    "createdAt": 1740158613903
+  },
+  {
+    "front": "this",
+    "back": "kore",
+    "createdAt": 1740158635322
+  },
+  {
+    "front": "that",
+    "back": "sore",
+    "createdAt": 1740158648141
+  },
+  {
+    "front": "I",
+    "back": "watashi",
+    "createdAt": 1740158657938
+  },
+  {
+    "front": "work",
+    "back": "shigoto",
+    "createdAt": 1740158665306
+  },
+  {
+    "front": "when",
+    "back": "itsu",
+    "createdAt": 1740158673904
+  },
+  {
+    "front": "make",
+    "back": "suru",
+    "createdAt": 1740158693915
+  },
+  {
+    "front": "leave",
+    "back": "deru",
+    "createdAt": 1740158701671
+  },
+  {
+    "front": "use",
+    "back": "tsukau",
+    "createdAt": 1740158721009
+  },
+  {
+    "front": "place",
+    "back": "tokoro",
+    "createdAt": 1740158729982
+  },
+  {
+    "front": "create",
+    "back": "tsukuru",
+    "createdAt": 1740158747989
+  },
+  {
+    "front": "think",
+    "back": "omou",
+    "createdAt": 1740158759815
+  },
+  {
+    "front": "have",
+    "back": "motsu",
+    "createdAt": 1740158767709
+  },
+  {
+    "front": "buy",
+    "back": "kau",
+    "createdAt": 1740158776257
+  },
+  {
+    "front": "time",
+    "back": "jikan",
+    "createdAt": 1740158782451
+  },
+  {
+    "front": "know",
+    "back": "shiru",
+    "createdAt": 1740158792720
+  },
+  {
+    "front": "same",
+    "back": "onaji",
+    "createdAt": 1740158799726
+  },
+  {
+    "front": "now",
+    "back": "ima",
+    "createdAt": 1740158813225
+  },
+  {
+    "front": "new",
+    "back": "atarashii",
+    "createdAt": 1740158819450
+  },
+  {
+    "front": "become",
+    "back": "naru",
+    "createdAt": 1740158827047
+  },
+  {
+    "front": "still",
+    "back": "mada",
+    "createdAt": 1740158853550
+  },
+  {
+    "front": "after",
+    "back": "ato",
+    "createdAt": 1740158861326
+  },
+  {
+    "front": "hear",
+    "back": "kiku",
+    "createdAt": 1740158871843
+  },
+  {
+    "front": "tell",
+    "back": "iu",
+    "createdAt": 1740158886353
+  },
+  {
+    "front": "few",
+    "back": "sukunai",
+    "createdAt": 1740158900989
+  },
+  {
+    "front": "tall",
+    "back": "takai",
+    "createdAt": 1740158929995
+  },
+  {
+    "front": "child",
+    "back": "kodomo",
+    "createdAt": 1740158939850
+  },
+  {
+    "front": "so",
+    "back": "sou",
+    "createdAt": 1740158948730
+  },
+  {
+    "front": "already",
+    "back": "mou",
+    "createdAt": 1740158961186
+  },
+  {
+    "front": "student",
+    "back": "gakusei",
+    "createdAt": 1740158975681
+  },
+  {
+    "front": "hot",
+    "back": "atsui",
+    "createdAt": 1740158984386
+  },
+  {
+    "front": "please",
+    "back": "douzo",
+    "createdAt": 1740158990535
+  },
+  {
+    "front": "afternoon",
+    "back": "gogo",
+    "createdAt": 1740158998951
+  },
+  {
+    "front": "long",
+    "back": "nagai",
+    "createdAt": 1740159005835
+  },
+  {
+    "front": "book",
+    "back": "hon",
+    "createdAt": 1740159012315
+  },
+  {
+    "front": "this year",
+    "back": "kotoshi",
+    "createdAt": 1740159021128
+  },
+  {
+    "front": "often",
+    "back": "yoku",
+    "createdAt": 1740159031662
+  },
+  {
+    "front": "she",
+    "back": "kanojo",
+    "createdAt": 1740159055018
+  },
+  {
+    "front": "what",
+    "back": "dou",
+    "createdAt": 1740159060670
+  },
+  {
+    "front": "word",
+    "back": "kotaba",
+    "createdAt": 1740159083146
+  },
+  {
+    "front": "face",
+    "back": "kao",
+    "createdAt": 1740159090136
+  },
+  {
+    "front": "finish",
+    "back": "owaru",
+    "createdAt": 1740159100278
+  },
+  {
+    "front": "give",
+    "back": "ageru",
+    "createdAt": 1740159114042
+  },
+  {
+    "front": "like this",
+    "back": "kou",
+    "createdAt": 1740159131156
+  },
+  {
+    "front": "school",
+    "back": "gakkou",
+    "createdAt": 1740159140989
+  },
+  {
+    "front": "be given",
+    "back": "kureru",
+    "createdAt": 1740159152257
+  },
+  {
+    "front": "start",
+    "back": "hajimeru",
+    "createdAt": 1740159166255
+  },
+  {
+    "front": "get up",
+    "back": "okiru",
+    "createdAt": 1740159175269
+  },
+  {
+    "front": "spring",
+    "back": "haru",
+    "createdAt": 1740159183882
+  },
+  {
+    "front": "morning",
+    "back": "gozen",
+    "createdAt": 1740159191614
+  },
+  {
+    "front": "different",
+    "back": "betsu",
+    "createdAt": 1740159202311
+  },
+  {
+    "front": "where",
+    "back": "doko",
+    "createdAt": 1740159208838
+  },
+  {
+    "front": "room",
+    "back": "heya",
+    "createdAt": 1740159215197
+  },
+  {
+    "front": "young",
+    "back": "wakai",
+    "createdAt": 1740159224245
+  },
+  {
+    "front": "car",
+    "back": "kuruma",
+    "createdAt": 1740159230938
+  },
+  {
+    "front": "put",
+    "back": "oku",
+    "createdAt": 1740159236963
+  },
+  {
+    "front": "reside",
+    "back": "sumu",
+    "createdAt": 1740159245367
+  },
+  {
+    "front": "work",
+    "back": "hataraku",
+    "createdAt": 1740159258570
+  },
+  {
+    "front": "difficult",
+    "back": "muzusashii",
+    "createdAt": 1740159276961
+  },
+  {
+    "front": "teacher",
+    "back": "sensei",
+    "createdAt": 1740159283058
+  },
+  {
+    "front": "stand",
+    "back": "tatsu",
+    "createdAt": 1740159296109
+  },
+  {
+    "front": "call",
+    "back": "yobu",
+    "createdAt": 1740159305388
+  },
+  {
+    "front": "university",
+    "back": "daigaku",
+    "createdAt": 1740159322397
+  },
+  {
+    "front": "cheap",
+    "back": "yasui",
+    "createdAt": 1740159331858
+  },
+  {
+    "front": "more",
+    "back": "motto",
+    "createdAt": 1740159345938
+  },
+  {
+    "front": "go back home",
+    "back": "kaeru",
+    "createdAt": 1740159356171
+  },
+  {
+    "front": "understand",
+    "back": "wakaru",
+    "createdAt": 1740159366983
+  },
+  {
+    "front": "wide",
+    "back": "hiroi",
+    "createdAt": 1740159376463
+  },
+  {
+    "front": "number",
+    "back": "suu",
+    "createdAt": 1740159382855
+  },
+  {
+    "front": "near",
+    "back": "chikai",
+    "createdAt": 1740159397778
+  },
+  {
+    "front": "there",
+    "back": "soko",
+    "createdAt": 1740159404133
+  },
+  {
+    "front": "run",
+    "back": "hashiru",
+    "createdAt": 1740159410513
+  },
+  {
+    "front": "put in",
+    "back": "ireru",
+    "createdAt": 1740159418374
+  },
+  {
+    "front": "teach",
+    "back": "oshieru",
+    "createdAt": 1740159430014
+  },
+  {
+    "front": "walk",
+    "back": "aruku",
+    "createdAt": 1740159436359
+  },
+  {
+    "front": "meet",
+    "back": "au",
+    "createdAt": 1740159443372
+  },
+  {
+    "front": "write",
+    "back": "kaku",
+    "createdAt": 1740159450049
+  },
+  {
+    "front": "head",
+    "back": "atama",
+    "createdAt": 1740159458727
+  },
+  {
+    "front": "sell",
+    "back": "uru",
+    "createdAt": 1740159469079
+  },
+  {
+    "front": "enjoy",
+    "back": "daiski",
+    "createdAt": 1740159497555
+  },
+  {
+    "front": "body",
+    "back": "karada",
+    "createdAt": 1740159506273
+  },
+  {
+    "front": "at once",
+    "back": "sugu",
+    "createdAt": 1740159512087
+  },
+  {
+    "front": "fly",
+    "back": "tobu",
+    "createdAt": 1740159518763
+  },
+  {
+    "front": "very",
+    "back": "totemo",
+    "createdAt": 1740159524941
+  },
+  {
+    "front": "who",
+    "back": "dare",
+    "createdAt": 1740159529870
+  },
+  {
+    "front": "favorite",
+    "back": "suki",
+    "createdAt": 1740159536454
+  },
+  {
+    "front": "read",
+    "back": "yomu",
+    "createdAt": 1740159544459
+  },
+  {
+    "front": "next",
+    "back": "tsugi",
+    "createdAt": 1740159552287
+  },
+  {
+    "front": "you",
+    "back": "anata",
+    "createdAt": 1740159560200
+  },
+  {
+    "front": "drink",
+    "back": "nomu",
+    "createdAt": 1740159566948
+  },
+  {
+    "front": "old",
+    "back": "furui",
+    "createdAt": 1740159574237
+  },
+  {
+    "front": "question",
+    "back": "shitsumon",
+    "createdAt": 1740159582714
+  },
+  {
+    "front": "today",
+    "back": "kyou",
+    "createdAt": 1740159596349
+  },
+  {
+    "front": "friend",
+    "back": "tomodachi",
+    "createdAt": 1740159602600
+  },
+  {
+    "front": "early",
+    "back": "hayai",
+    "createdAt": 1740159612513
+  },
+  {
+    "front": "which",
+    "back": "dore",
+    "createdAt": 1740159636020
+  },
+  {
+    "front": "beautiful",
+    "back": "utsukushii",
+    "createdAt": 1740159650199
+  },
+  {
+    "front": "always",
+    "back": "itsumo",
+    "createdAt": 1740159658797
+  },
+  {
+    "front": "leg",
+    "back": "ashi",
+    "createdAt": 1740159666838
+  },
+  {
+    "front": "wake up",
+    "back": "okosu",
+    "createdAt": 1740159677525
+  },
+  {
+    "front": "show",
+    "back": "miseru",
+    "createdAt": 1740159684951
+  },
+  {
+    "front": "daughter",
+    "back": "musume",
+    "createdAt": 1740159691957
+  },
+  {
+    "front": "enjoy",
+    "back": "tanoshimu",
+    "createdAt": 1740159700169
+  },
+  {
+    "front": "color",
+    "back": "iro",
+    "createdAt": 1740159707529
+  },
+  {
+    "front": "everybody",
+    "back": "minna",
+    "createdAt": 1740159716027
+  },
+  {
+    "front": "take",
+    "back": "toru",
+    "createdAt": 1740159721595
+  },
+  {
+    "front": "study",
+    "back": "benkyou",
+    "createdAt": 1740159730325
+  },
+  {
+    "front": "can do",
+    "back": "dekiru",
+    "createdAt": 1740159744102
+  },
+  {
+    "front": "short",
+    "back": "mijikai",
+    "createdAt": 1740159764689
+  }
+]
